@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Storynest</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="image_story">Image Story</string>
+    <string name="token_pref">TokenPref</string>
+    <string name="token">Token</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="imageStoryDetail">ImageStoryDetail</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="register">Register</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="login">Login</string>
+    <string name="upload">Upload</string>
+    <string name="camerax">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="fab">fab</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
